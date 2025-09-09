@@ -19,3 +19,7 @@ Kame is an experimental quadruped walker with PLM legs. The main controller of t
 <img src="doc/images/bq-logo-human-right-technology.png" width="240" align="center">
 
 Sponsored by BQ till march 2016
+
+
+
+## this is a sfranzyshen fork ... refer to original
